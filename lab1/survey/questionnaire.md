@@ -8,7 +8,7 @@
 
 == your response here ==
 
-## 2. What is your current title and affiliation/position? Also add a link to your webpage if you have one.
+## 2. What is your current title and affiliation/position? What year of the program are you in? Also add a link to your webpage if you have one.
 
 == your response here ==
 

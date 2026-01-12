@@ -10,7 +10,7 @@ Tiril
 
 ## 2. What is your current title and affiliation/position? What year of the program are you in? Also add a link to your webpage if you have one.
 
-PhD student 2nd year, https://www.sv.uio.no/econ/english/people/aca/tirileb/
+PhD student 2nd year, https://www.sv.uio.no/econ/english/people/aca/tirileb/  hei 
 
 
 ## 3. What is your primary field of research interests?

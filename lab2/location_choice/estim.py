@@ -2,7 +2,7 @@
 
 # Run one of the following to install optimagic if not already installed
 # !pip install optimagic
-# !conda install -c conda-forge estimagic
+# !conda install -c conda-forge optimagic
 
 #%% LOAD MODULES
 import numpy as np
@@ -106,6 +106,6 @@ res = em.estimate_ml(
     },
 )
 # display results
-res.summary().round(4)
+print(res.summary().round(4))
 
 # %%
